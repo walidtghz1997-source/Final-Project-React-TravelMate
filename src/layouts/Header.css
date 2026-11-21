@@ -1,0 +1,12 @@
+.header {
+  width: 100%;
+  padding: 20px;
+  background-color: #1e293b;
+  color: white;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
